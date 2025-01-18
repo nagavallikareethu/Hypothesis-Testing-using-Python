@@ -71,5 +71,5 @@ For example:
 ## Contact
 
 For any questions or feedback, feel free to reach out to:  
-**Your Name**  
-**[Your Email Address or GitHub Profile](https://github.com/your-username)**
+**Your Name**(Reethu Nagavallika)  
+**[GitHub Profile] (https://github.com/nagavallikareethu)**
